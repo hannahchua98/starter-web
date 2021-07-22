@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jin Kazka    Frontend Developer   @kazji
 
 # THANKS
 
