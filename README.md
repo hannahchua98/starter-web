@@ -16,4 +16,6 @@ This is a simple web project, deployment can be on ny web server or even local f
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request
+
 ## Copyright
