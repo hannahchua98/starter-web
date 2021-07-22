@@ -19,3 +19,5 @@ This is a simple web project, deployment can be on ny web server or even local f
 Please fork this repository and then issue Pull Request
 
 ## Copyright
+
+Copyright Misz Inc. 2021
